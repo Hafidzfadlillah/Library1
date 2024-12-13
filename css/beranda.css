@@ -1,0 +1,33 @@
+body {
+    background-image: url(../foto/bg2.png);
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card-custom {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border-radius: 10px;
+    color: #333;
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.card-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 10%;
+    margin-right: 10px;
+}
+.book-card { 
+    background-color: #66c2a5; 
+}
+.clients-card { background-color: #8da0cb; }
+.jobs-card { background-color: #a6cee3; }
+.card-number {
+    font-size: 1.8rem;
+    margin-top: 10px;
+}
+

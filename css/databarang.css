@@ -1,0 +1,18 @@
+body {
+    background-image: url(../foto/bg2.png);
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card-header {
+    background-color: #999DA0;
+}
+.card-body {
+
+}
+
+.card-footer {
+    height: 40px;
+    background-color: #999DA0;
+}
